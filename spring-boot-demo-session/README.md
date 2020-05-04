@@ -124,3 +124,4 @@ spring:
 ## 参考
 
 - Spring Session 官方文档：https://docs.spring.io/spring-session/docs/current/reference/html5/guides/boot-redis.html#updating-dependencies
+- 从Spring-Session源码看Session机制的实现细节 https://www.cnblogs.com/softidea/p/10323310.html
